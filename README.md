@@ -17,9 +17,10 @@ The dataset includes sensor event logs collected passively from Android smartpho
 - Screen Unlock events (`source_3`)
 - App Resume events (`source_5`)
 - Light Sensor data (`source_12`)
-- Connectivity status ('source_16')
-- Battery Status ('source_17')
+- Connectivity status (`source_16`)
+- Battery Status (`source_17`)
 - Gesture and interaction events (`source_18`)
-- Permission_Access ('source_21')
+- App Events (`source_20`)
+- Permission_Access (`source_21`)
 
 User dropout labels are based on data submission patterns over a 6-week period.
